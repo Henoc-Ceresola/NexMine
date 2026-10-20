@@ -1,3 +1,5 @@
+<p align="center"><img src="portada.jpg" alt="NexMine" width="480"></p>
+
 # NexMine
 
 **An "Interlocutor" between a person and AI.**
