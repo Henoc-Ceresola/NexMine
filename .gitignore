@@ -1,0 +1,13 @@
+# Tus claves: nunca se suben (solo el ejemplo)
+config/CLAVES.txt
+*.env
+
+# Las conversaciones y perfiles de cada persona
+data/usuarios/
+
+# Registros y resultados de las pruebas
+logs/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc

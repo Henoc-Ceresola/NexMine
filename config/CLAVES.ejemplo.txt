@@ -1,0 +1,10 @@
+# Copia este archivo como config/CLAVES.txt y pon tus datos después de cada "=".
+# CLAVES.txt nunca se sube a GitHub (está en .gitignore). No compartas nunca tu clave
+# ni la pegues en Issues o Discussions.
+
+# Tu propia clave de OpenRouter (se crea gratis en https://openrouter.ai/keys).
+IA_CLAVE=
+
+# El modelo de IA. Este es gratuito; los modelos gratuitos cambian con el tiempo:
+# si deja de funcionar, elige otro que termine en ":free" en https://openrouter.ai/models
+IA_MODELO=nvidia/nemotron-3-ultra-550b-a55b:free
